@@ -142,3 +142,6 @@ crashlytics-build.properties
 .idea/
 .vs/
 .vscode/*.log
+
+# Marcador interno de reimport
+/Assets/AngryBirds/.art_repair_done
